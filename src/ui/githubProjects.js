@@ -28,9 +28,9 @@ const githubProjects = [
     name: "Portfolio Website",
     description:
       "A personal portfolio built with React, Vite, and Tailwind CSS v4, featuring a custom canvas-based CrystalNucleus animation with 3D-projected orbital rings, mouse parallax, idle float motion, and a deep-space StarCanvas background.",
-    deploymentLink: "https://your-portfolio-deployment.vercel.app/",
+    deploymentLink: "https://portfolio-okienmo6i-virendra2406087s-projects.vercel.app",
     techStack: ["React", "Vite", "Tailwind CSS", "Canvas API"],
-    githubUrl: "https://github.com/your-username/portfolio",
+    githubUrl: "https://github.com/Virendra2406087/Portfolio",
     image: portfolio,
   },
 ];
