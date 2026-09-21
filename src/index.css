@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+.Typewriter__cursor {
+    color: rgb(61, 113, 187);
+}
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+.formDiv{
+  display:flex;
+  flex-direction: row;
+  padding:10px 8px;
+  border:1px solid rgb(159, 156, 156);
+  gap:10px;
+  border-radius: 10px;
+}
+.dark .formDiv{
+  border:1px solid #af6aaf;
+}
+.homeClipPath{
+  clip-path: polygon(80% 0, 100% 4%, 100% 100%, 1% 100%, 0 3%);
+}
+
+  
